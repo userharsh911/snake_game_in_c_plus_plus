@@ -214,7 +214,7 @@ int main(){
     float pan = 0.0f;
     SetMusicPan(bg, pan);
 
-    float volume = 0.5f;
+    float volume = 0.4f;
     SetMusicVolume(bg,volume);
     
     PlayMusicStream(bg);
