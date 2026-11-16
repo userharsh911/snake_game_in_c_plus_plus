@@ -14,7 +14,7 @@
 **NOTE.** Make sure that raylib is installed on your system otherwise installed it from officials.
 ## How to play
 
-**=>** For player red use W/S/A/D keys for up/down/left/right.
+**=>** Use W/S/A/D keys for move snake up/down/left/right.
 
 **=>** Press key R for reset the game or restart.
 
@@ -28,6 +28,6 @@
 
 🎥 [Raylib examples](https://www.raylib.com/examples.html)
 
-**NOTE** all the images/audios are copyright free.
+**NOTE** all the images/audios are copyright free, and i don't own any images/audio assests
 
 
