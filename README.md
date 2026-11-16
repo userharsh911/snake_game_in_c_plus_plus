@@ -16,6 +16,8 @@
 
 **=>** For player red use W/S/A/D keys for up/down/left/right.
 
+**=>** Press key R for reset the game or restart.
+
 **=>** Enjoy 😀.
 
 ---
@@ -25,3 +27,7 @@
 ## Resources
 
 🎥 [Raylib examples](https://www.raylib.com/examples.html)
+
+**NOTE** all the images/audios are copyright free.
+
+
